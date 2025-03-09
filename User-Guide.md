@@ -19,7 +19,7 @@ TVHPlayer is a user-friendly application designed for streaming and recording li
 
 ### Installation
 
-To install TVHPlayer, download the app from the official website or Flathub.
+To install TVHPlayer, download the app from the [official website](https://github.com/mfat/tvhplayer) or Flathub.
 
 ### Connecting to TVHeadend
 
