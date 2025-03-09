@@ -46,7 +46,11 @@ To connect TVHPlayer to your TVHeadend server:
 
 ### Streaming Live TV
 
-Press the play button or double-click a channel on the channel list to start playback.
+Press the play button or double-click a channel on the channel list to start watching.
+
+### View Program Guide (EPG)
+
+TVHplayer has basic support for Electronic Program Guides (EPG). To view the program guide, right-click on the channel name and select "Show EPG". EPG needs to be provided by your TVheadend server. 
 
 ### Schedule recordings
 
