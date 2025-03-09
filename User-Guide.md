@@ -1,5 +1,3 @@
-# TVHPlayer User Guide
-
 This guide will help you learn how to use [TVHplayer](https://github.com/mfat/tvhplayer).
 
 ## Overview
