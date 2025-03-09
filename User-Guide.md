@@ -10,7 +10,7 @@ TVHplayer is a user-friendly application designed for streaming and recording li
 :warning: TVHplayer doesn't provide any built-in server. You must set up your own server to use this app. See below for how to set up a Tvheadend server. 
 
 ### What is Tvheadend?
-Tvheadend is a TV streaming server that lets you watch and record live TV. It works by receiving TV signals from a tuner (like a USB DVB device) or an M3U playlist (for IPTV), then streaming the channels to devices like TVHPlayer.
+Tvheadend is a TV streaming server that lets you watch and record live TV. In modern term, it helps you "stream" live TV from a tuner to the network and watch television on your devices. It works by receiving TV signals from a tuner (like a USB DVB device) or an M3U playlist (for IPTV), then streaming the channels to devices like TVHPlayer.
 
 Please refer to [Official documentation for Tvheadend](https://docs.tvheadend.org/documentation).
 There are various ways for setting up a Tvheadend server. 
