@@ -4,7 +4,7 @@ Welcome to the TVHPlayer help documentation. This guide will help you understand
 
 ## Overview
 
-TVHPlayer is a user-friendly application designed to provide seamless streaming of TV content. It integrates with TVHeadend, a popular open-source TV streaming server, to deliver live TV and recorded content to your devices.
+TVHPlayer is a user-friendly application designed for streaming and recording live TV content. It integrates with TVHeadend, a popular open-source TV streaming server, to deliver live TV to your devices and schedule recordings. 
 
 ## Features
 
