@@ -24,6 +24,8 @@ You can easily set up a server with [Docker](https://hub.docker.com/r/linuxserve
 - Schedule recordings
 - Record locally on your computer
 - User-friendly interface
+- [Free] and opensource. 
+- Cross-platform: TVHplayer works on Linux, MacOS and Windows. 
 
 
 ## Getting Started
