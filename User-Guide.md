@@ -1,6 +1,6 @@
 # TVHPlayer User Guide
 
-This guide will help you understand how to use the TVHPlayer app.
+This guide will help you learn how to use [TVHplayer](https://github.com/mfat/tvhplayer).
 
 ## Overview
 
