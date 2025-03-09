@@ -1,6 +1,6 @@
-# TVHPlayer Documentation
+# TVHPlayer User Guide
 
-Welcome to the TVHPlayer help documentation. This guide will help you understand how to use the TVHPlayer app.
+This guide will help you understand how to use the TVHPlayer app.
 
 ## Overview
 
