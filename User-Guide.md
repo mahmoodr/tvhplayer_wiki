@@ -40,7 +40,7 @@ To connect TVHPlayer to your TVHeadend server:
 
 1. Open the TVHPlayer app.
 2. Click the small cog icon above channel list to add your server
-3. Enter the IP address and port number of your TVHeadend server (includibg http:// or https://)
+3. Enter the IP address and port number of your TVHeadend server (including http:// or https://)
 4. Enter your TVHeadend username and password.
 5. Save the settings and test the connection.
 
