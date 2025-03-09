@@ -6,7 +6,11 @@ Welcome to the TVHPlayer help documentation. This guide will help you understand
 
 TVHPlayer is a user-friendly application designed for streaming and recording live TV content. It integrates with [Tvheadend](https://tvheadend.org/), a popular open-source TV streaming server, to deliver live TV to your devices and schedule recordings. 
 
-:warning: TVHplayer doesn't provide any built-in server. You must set up your own server to use this app. Please refer to [Official documentation for Tvheadend](https://docs.tvheadend.org/documentation). You can easily set up a server with [Docker](https://hub.docker.com/r/linuxserver/tvheadend). 
+:warning: TVHplayer doesn't provide any built-in server. You must set up your own server to use this app.  
+
+To use Tvheadend (and TVHplayer), you need a TV tuner. This can be a USB or PCI tuner, or even an IPTV playlist. Please refer to [Official documentation for Tvheadend](https://docs.tvheadend.org/documentation).
+You can easily set up a server with [Docker](https://hub.docker.com/r/linuxserver/tvheadend).
+
 
 ## Features
 
