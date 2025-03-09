@@ -54,7 +54,7 @@ TVHplayer has basic support for Electronic Program Guides (EPG). To view the pro
 
 ### Schedule recordings
 
-1. To record a live program using Tvheaden's DVR function, click the record button below the player. Recordings will be stored on the server.
+1. To record a live program using Tvheaden's DVR function, click the record button below the player. You are asked to set duration for the recording. Recordings will be stored on the server. 
 2. To schedule recording a show, right-click on the channel name and select "Show EPG". From the EPG window you can schedule recordings
 3. To record live TV locally on your computer press the local record button (the downward arrow)
 
