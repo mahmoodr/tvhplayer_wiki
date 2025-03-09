@@ -5,7 +5,7 @@ This guide will help you learn how to use [TVHplayer](https://github.com/mfat/tv
 ## Overview
 
 ### What is TVHplayer?
-TVHPlayer is a user-friendly application designed for streaming and recording live TV content. It uses [Tvheadend](https://tvheadend.org/), a popular open-source TV streaming server, as its backend.
+TVHplayer is a user-friendly application designed for streaming and recording live TV content. It uses [Tvheadend](https://tvheadend.org/), a popular open-source TV streaming server, as its backend.
 
 :warning: TVHplayer doesn't provide any built-in server. You must set up your own server to use this app. See below for how to set up a Tvheadend server. 
 
